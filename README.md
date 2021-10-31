@@ -1,6 +1,4 @@
-Hey, my name's Patrick Hu.
-
-I'm a high school student in Markham, Ontario. Currently doing front-end and competitive programming.
+High school student Pierre Elliott Trudeau High School.
 
 <!---
 anacondazz2/anacondazz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
