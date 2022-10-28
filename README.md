@@ -1,4 +1,4 @@
-High school student at Pierre Elliott Trudeau High School.  
+bruh 
 
 <!---
 anacondazz2/anacondazz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
