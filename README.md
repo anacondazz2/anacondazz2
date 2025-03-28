@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Patrick Hu</h1>
 <h2>💡 What I'm Up To</h2>  
 
-- 🔭 Currently working on a **Testing Automation Program** at the Government of Ontario.
+- 🔭 Currently working on **Automated Testing** software at the Government of Ontario.
 
 - 📚 In my free time, my favourite things to do are learning competitive programming and systems programming.
 
