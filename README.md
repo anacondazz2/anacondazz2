@@ -1,43 +1,14 @@
 <h1>Hi 👋, I'm Patrick Hu</h1>
-
+<h2>💡 What I'm Up To</h2>
 - 🔭 Currently working on a **Testing Automation Program** at the Government of Ontario.
 
 - 📚 In my free time, my favourite things to do are learning competitive programming and systems programming.
 
 - 🤝 Always open to collaborating on exciting projects!
 
-<h2>💡 What I'm Up To</h2>
-
-- ✨ Exploring advanced **testing automation** methodologies.
-- 🤖 Experimenting with **Rust** and **low-level programming**.
-- 🛠️ Building open-source **developer tools**.
-
 ---
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-### 🛠 Backend & Systems Programming
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</p>
-
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
----
-
-<h2 align="center">My Projects</h2>
+<h2 align="center">My Top Projects</h2>
 <table align="center">
   <tr>
     <td align="center">
