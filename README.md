@@ -6,8 +6,9 @@
 - 📚 In my free time, my favourite things to do are learning competitive programming and systems programming.
 
 - 🤝 Always open to collaborating on exciting projects!
+  
 
-<h2 align="center">My Top Projects</h2>
+<h2>My Top Projects</h2>
 <table align="center">
   <tr>
     <td align="center">
