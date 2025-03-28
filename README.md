@@ -14,24 +14,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/teddio496/CodeGrounds">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=quiet" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/teddio496/WelcoMate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=WelcoMate&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=WelcoMate&theme=quiet" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/anacondazz2/a-foot-into-heaven">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=a-foot-into-heaven&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=a-foot-into-heaven&theme=quiet" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anacondazz2/vehicle-simulation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme=" />
       </a>
     </td>
   </tr>
