@@ -8,7 +8,7 @@
 - 🤝 Always open to collaborating on exciting projects!
   
 
-<h2>My Top Projects</h2>
+<h2>🔧 Stuff I made and Collaborated On</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -41,7 +41,7 @@
 ```ansi
       /\         pex@samsonitebag 
      /  \        ---------------- 
-    /\   \       OS: Arch Linux x86_64 
+    /\   \       <span style="color:red;">OS</span>: Arch Linux x86_64 
    /      \      Host: 20L6SDKD00 ThinkPad T480 
   /   ,,   \     Kernel: 6.13.6-arch1-1 
  /   |  |  -\    Uptime: 14 days, 11 hours, 48 mins 
