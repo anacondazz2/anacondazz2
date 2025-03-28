@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/anacondazz2/vehicle-simulation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme="radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme=radical" />
       </a>
     </td>
   </tr>
