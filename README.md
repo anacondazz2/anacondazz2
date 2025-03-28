@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Hu</h1>
+<h1>Hi 👋, I'm Patrick Hu</h1>
 
 - 🔭 Currently working on **a Testing Automation Program at the Government of Ontario.**
 
@@ -6,7 +6,7 @@
 
 - 🤝 Always open to **collaborating on exciting projects!**
 
-<h2 align="center">💡 What I'm Up To</h2>
+<h2>💡 What I'm Up To</h2>
 
 - ✨ Exploring advanced **testing automation** methodologies.
 - 🤖 Experimenting with **Rust** and **low-level programming**.
