@@ -37,30 +37,26 @@
   </tr>
 </table>
 
-# 🖥️ System Info
+# $ fetch
 
 ```ansi
-[1;34m      /\        [0m [1;32mpex@samsonitebag[0m
-[1;34m     /  \       [0m [1;30m----------------[0m
-[1;34m    /\   \      [0m [1;36mOS:[0m Arch Linux x86_64
-[1;34m   /      \     [0m [1;36mHost:[0m ThinkPad T480
-[1;34m  /   ,,   \    [0m [1;36mKernel:[0m 6.13.6-arch1-1
-[1;34m /   |  |  -\   [0m [1;36mUptime:[0m 14d 11h 48m
-[1;34m/_-''    ''-_\  [0m [1;36mPackages:[0m 1037 (pacman)
-                 [1;36mShell:[0m bash 5.2.37
-                 [1;36mResolution:[0m 1920x1080
-                 [1;36mDE:[0m Plasma 6.3.3
-                 [1;36mWM:[0m kwin
-                 [1;36mTheme:[0m Breeze [GTK2/3]
-                 [1;36mIcons:[0m breeze-dark [GTK2/3]
-                 [1;36mTerminal:[0m konsole
-                 [1;36mCPU:[0m Intel i5-8350U (8) @ 3.600GHz [[1;31m35.0°C[0m]
-                 [1;36mGPU:[0m Intel UHD Graphics 620
-                 [1;36mMemory:[0m [1;33m24141MiB / 31974MiB (75%)[0m
-                 [1;36mDisk (/):[0m [1;33m18G / 49G (38%)[0m
-                 [1;36mBattery0:[0m [1;33m55% [Not charging][0m
-                 [1;36mBattery1:[0m [1;33m55% [Discharging][0m
-                 [1;36mLocal IP:[0m 10.0.0.95
-                 [1;36mPublic IP:[0m 2607:fea8:7622:4e00::3081
-                 [1;36mLocale:[0m C.UTF-8
+      /\         pex@samsonitebag 
+     /  \        ---------------- 
+    /\   \       OS: Arch Linux x86_64 
+   /      \      Host: 20L6SDKD00 ThinkPad T480 
+  /   ,,   \     Kernel: 6.13.6-arch1-1 
+ /   |  |  -\    Uptime: 14 days, 11 hours, 48 mins 
+/_-''    ''-\_   Packages: 1037 (pacman) 
+                 Shell: bash 5.2.37 
+                 Resolution: 1920x1080 
+                 DE: Plasma 6.3.3 
+                 WM: kwin 
+                 Terminal: konsole 
+                 CPU: Intel i5-8350U (8) @ 3.600GHz [35.0°C] 
+                 GPU: Intel UHD Graphics 620 
+                 Memory: 24141MiB / 31974MiB (75%) 
+                 Disk (/): 18G / 49G (38%) 
+                 Battery0: 55% [Not charging] 
+                 Battery1: 55% [Discharging] 
+                 Locale: C.UTF-8 
 
