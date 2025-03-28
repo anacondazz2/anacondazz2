@@ -41,7 +41,7 @@
 ```ansi
       /\         pex@samsonitebag 
      /  \        ---------------- 
-    /\   \       <span style="color:red;">OS</span>: Arch Linux x86_64 
+    /\   \       OS: Arch Linux x86_64 
    /      \      Host: 20L6SDKD00 ThinkPad T480 
   /   ,,   \     Kernel: 6.13.6-arch1-1 
  /   |  |  -\    Uptime: 14 days, 11 hours, 48 mins 
