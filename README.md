@@ -45,7 +45,7 @@
    /      \      Host: 20L6SDKD00 ThinkPad T480 
   /   ,,   \     Kernel: 6.13.6-arch1-1 
  /   |  |  -\    Uptime: 14 days, 11 hours, 48 mins 
-/_-''    ''-\_   Packages: 1037 (pacman) 
+/_-''    ''--\   Packages: 1037 (pacman) 
                  Shell: bash 5.2.37 
                  Resolution: 1920x1080 
                  DE: Plasma 6.3.3 
