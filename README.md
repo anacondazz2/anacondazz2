@@ -7,8 +7,6 @@
 
 - 🤝 Always open to collaborating on exciting projects!
 
----
-
 <h2 align="center">My Top Projects</h2>
 <table align="center">
   <tr>
