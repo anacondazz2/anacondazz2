@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Patrick Hu</h1>
 
-- 🔭 Currently working on **a Testing Automation Program at the Government of Ontario.**
+- 🔭 Currently working on a **Testing Automation Program** at the Government of Ontario.
 
-- 📚 In my free time, my favourite things to do are **learning competitive programming and systems programming.**
+- 📚 In my free time, my favourite things to do are learning competitive programming and systems programming.
 
-- 🤝 Always open to **collaborating on exciting projects!**
+- 🤝 Always open to collaborating on exciting projects!
 
 <h2>💡 What I'm Up To</h2>
 
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
+<h2 align="center">My Projects</h2>
 <table align="center">
   <tr>
     <td align="center">
