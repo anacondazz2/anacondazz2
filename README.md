@@ -15,7 +15,6 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
 </p>
 
 ### 🧑‍🎓 Operating Systems & Scripting
@@ -23,3 +22,33 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
+
+<h2 align="center">🔥 Featured Projects</h2>
+<p align="center">A showcase of some of the work I'm most proud of!</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/oskip0906/H5N1_Social_Media_Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=H5N1_Social_Media_Analysis&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oskip0906/Scriptorium">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=Scriptorium&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/teddio496/WelcoMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=WelcoMate&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oskip0906/Basic_Neural_Network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=Basic_Neural_Network&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
