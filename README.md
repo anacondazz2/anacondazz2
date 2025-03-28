@@ -8,7 +8,7 @@
 - 🤝 Always open to collaborating on exciting projects!
   
 
-<h2>🔧 Stuff I made and Collaborated On</h2>
+<h2>🔧 My Top Projects/h2>
 <table align="center">
   <tr>
     <td align="center">
