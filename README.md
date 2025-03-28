@@ -44,8 +44,7 @@
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
-<p align="center">A showcase of some of the work I'm most proud of!</p>
+<h2 align="center">🔥 My Projects</h2>
 
 <table align="center">
   <tr>
