@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on automated testing software at the Government of Ontario.
 
-- 📚 In my free time, my favourite things to do are learning competitive programming and systems programming.
+- 📚 In my free time, my favourite things to do are learning DSA and systems programming.
 
 - 🤝 Always open to collaborating on exciting projects!
   
