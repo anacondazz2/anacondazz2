@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/teddio496/CodeGrounds">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=radical" width=200/>
       </a>
     </td>
     <td align="center">
