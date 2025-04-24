@@ -1,10 +1,11 @@
-<h3>Hi 👋, I'm Patrick Hu</h3>
-<h3>Things I've Built </h3>
+<h2>Hi 👋, I'm Patrick Hu</h2>  
+
+<h3>Things I've Built 🧱</h3>
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/teddio496/CodeGrounds">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=radical" width=200/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=CodeGrounds&theme=radical" width=300/>
       </a>
     </td>
     <td align="center">
@@ -25,10 +26,9 @@
       </a>
     </td>
   </tr>
-</table>
+</table>  
 
 <h3> $ fetch </h3>
-
 ```ansi
       /\         pex@samsonitebag 
      /  \        ---------------- 
