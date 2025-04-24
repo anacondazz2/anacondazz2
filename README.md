@@ -1,13 +1,4 @@
 <h1>Hi 👋, I'm Patrick Hu</h1>
-<h2>💡 What I'm Up To</h2>  
-
-- 🔭 Currently working on automated testing software at the Government of Ontario.
-
-- 📚 In my free time, my favourite things to do are learning DSA and systems programming.
-
-- 🤝 Always open to collaborating on exciting projects!
-  
-
 <h2>🔧 Things I've Built </h2>
 <table align="center">
   <tr>
