@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Patrick Hu</h2>  
 
 <h3>Things I've Built 🧱</h3>
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/teddio496/CodeGrounds">
