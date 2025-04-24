@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Patrick Hu</h1>
-<h2>🔧 Things I've Built </h2>
+<h3>Hi 👋, I'm Patrick Hu</h3>
+<h3>🔧 Things I've Built </h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-<h2> $ fetch </h2>
+<h3> $ fetch </h3>
 
 ```ansi
       /\         pex@samsonitebag 
