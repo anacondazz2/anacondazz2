@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Patrick Hu</h3>
-<h3>🔧 Things I've Built </h3>
+<h3>Things I've Built </h3>
 <table align="center">
   <tr>
     <td align="center">
