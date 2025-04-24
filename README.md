@@ -10,19 +10,19 @@
     </td>
     <td align="center">
       <a href="https://github.com/teddio496/WelcoMate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=WelcoMate&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddio496&repo=WelcoMate&theme=radical" width=300/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/anacondazz2/a-foot-into-heaven">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=a-foot-into-heaven&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=a-foot-into-heaven&theme=radical" width=300/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anacondazz2/vehicle-simulation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anacondazz2&repo=vehicle-simulation&theme=radical" width=300/>
       </a>
     </td>
   </tr>
