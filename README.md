@@ -1,4 +1,4 @@
-<h3>Things I've Made</h3>
+<h3> Things I've Made </h3>
 <table>
   <tr>
     <td align="center">
@@ -26,7 +26,7 @@
   </tr>
 </table>  
 
-<h3> $ fetch </h3>
+<h3> fetch </h3>
 
 ```ansi
       /\         pex@samsonitebag 
