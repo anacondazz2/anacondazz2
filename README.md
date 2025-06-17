@@ -1,4 +1,4 @@
-<h3> Things I've Made </h3>
+<!-- <h3> Things I've Made </h3>
 <table>
   <tr>
     <td align="center">
@@ -24,7 +24,7 @@
       </a>
     </td>
   </tr>
-</table>  
+</table> -->
 
 <h3> fetch </h3>
 
