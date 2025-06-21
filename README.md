@@ -26,7 +26,7 @@
   </tr>
 </table> -->
 
-<h3> fetch </h3>
+<!-- <h3> fetch </h3> -->
 
 ```ansi
       /\         pex@samsonitebag 
@@ -49,5 +49,5 @@
                  Battery1: 55% [Discharging] 
                  Locale: C.UTF-8
 ```  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anacondazz2&label=Profile%20views&color=d7effe&style=flat" alt="anacondazz2" /> </p>  
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anacondazz2&label=Profile%20views&color=d7effe&style=flat" alt="anacondazz2" /> </p>  -->
 
